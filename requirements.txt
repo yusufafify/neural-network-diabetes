@@ -1,5 +1,8 @@
-scikit-learn 
-numpy 
-pandas 
-matplotlib 
-seaborn 
+scikit-learn
+numpy
+pandas
+matplotlib
+seaborn
+kagglehub
+python-dotenv
+tensorflow

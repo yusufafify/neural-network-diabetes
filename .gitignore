@@ -1,1 +1,4 @@
 .venv
+.env
+dataset/diabetes.csv
+dataset/diabetes_cleaned.csv
