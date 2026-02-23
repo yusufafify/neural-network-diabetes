@@ -1,0 +1,9 @@
+Classification Metrics Summary
+==============================
+Accuracy:  0.7794
+Precision: 0.6316
+Recall:    0.6000 (Sensitivity)
+F1-Score:  0.6154
+ROC AUC:   0.7771
+==============================
+Note: Recall (Sensitivity) is prioritized to minimize False Negatives.

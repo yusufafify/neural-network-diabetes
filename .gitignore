@@ -2,3 +2,4 @@
 .env
 dataset/diabetes.csv
 dataset/diabetes_cleaned.csv
+__pycache__
